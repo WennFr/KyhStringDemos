@@ -15,6 +15,27 @@ namespace KyhStringDemos
 
 
 
+
+
+
+
+
+            //STRING 1
+
+            string userString;
+            string myString = "";
+
+
+            for (int i = 0; i < 3; i++)
+            {
+                Console.Write("Mata in en sträng: ");
+                userString = Console.ReadLine();
+                myString += userString + " ";
+
+            }
+
+            Console.WriteLine(myString);
+
         }
 
 
