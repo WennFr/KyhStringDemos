@@ -14,7 +14,40 @@ namespace KyhStringDemos
 
 
 
+            //STRING 3
 
+
+
+
+
+
+
+
+
+
+
+            //STRING 2
+
+
+            //string myString = "Hello, world";
+            //char[] charArray = myString.ToCharArray();
+
+            //for (int i = 0; i < charArray.Length; i++)
+            //{
+
+            //    if (charArray[i] == 'w')
+            //    {
+
+            //        Console.WriteLine(i);
+
+            //        Console.ReadKey();
+
+            //    }
+                
+            //}
+
+
+            //Console.WriteLine(myString.Substring(7, 1));
 
 
 
@@ -22,19 +55,19 @@ namespace KyhStringDemos
 
             //STRING 1
 
-            string userString;
-            string myString = "";
+            //string userString;
+            //string myString = "";
 
 
-            for (int i = 0; i < 3; i++)
-            {
-                Console.Write("Mata in en sträng: ");
-                userString = Console.ReadLine();
-                myString += userString + " ";
+            //for (int i = 0; i < 3; i++)
+            //{
+            //    Console.Write("Mata in en sträng: ");
+            //    userString = Console.ReadLine();
+            //    myString += userString + " ";
 
-            }
+            //}
 
-            Console.WriteLine(myString);
+            //Console.WriteLine(myString);
 
         }
 
