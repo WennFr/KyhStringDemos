@@ -13,16 +13,37 @@ namespace KyhStringDemos
         {
 
 
+            //STRING 5
+
+
+
+
+
+
+
+
+            // STRING 4
+
+            //string modifyString = "Detta är en sträng som du skall ändra";
+
+            //string newString = modifyString.Replace(" ", "*");
+
+            //char[] charArray = newString.ToCharArray();
+            //int counter = 0;
+
+            //foreach (char c in charArray)
+            //{
+            //    if (c == '*')
+            //        counter++;
+            //}
+
+
+
+            //Console.WriteLine($"Den här strängen innehåller: {counter} * tecken");
+
+
 
             //STRING 3
-
-
-
-
-
-
-
-
 
 
 
@@ -43,7 +64,7 @@ namespace KyhStringDemos
             //        Console.ReadKey();
 
             //    }
-                
+
             //}
 
 
